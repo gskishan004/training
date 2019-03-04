@@ -1,0 +1,1 @@
+{"input_args": {"resize": "0.5", "slice_": "(slice(70, 195, None), slice(78, 172, None))", "data_folder_path": "'C:\\\\Users\\\\Ishan\\\\scikit_learn_data\\\\lfw_home\\\\lfw_funneled'", "color": "False", "min_faces_per_person": "60"}, "duration": 9.471439838409424}
